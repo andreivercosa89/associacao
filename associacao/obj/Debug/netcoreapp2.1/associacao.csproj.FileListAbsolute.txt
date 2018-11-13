@@ -1,0 +1,11 @@
+/Users/aluno/Projects/associacao/associacao/bin/Debug/netcoreapp2.1/associacao.deps.json
+/Users/aluno/Projects/associacao/associacao/bin/Debug/netcoreapp2.1/associacao.runtimeconfig.json
+/Users/aluno/Projects/associacao/associacao/bin/Debug/netcoreapp2.1/associacao.runtimeconfig.dev.json
+/Users/aluno/Projects/associacao/associacao/bin/Debug/netcoreapp2.1/associacao.dll
+/Users/aluno/Projects/associacao/associacao/bin/Debug/netcoreapp2.1/associacao.pdb
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.csprojAssemblyReference.cache
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.AssemblyInfoInputs.cache
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.AssemblyInfo.cs
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.dll
+/Users/aluno/Projects/associacao/associacao/obj/Debug/netcoreapp2.1/associacao.pdb
